@@ -249,3 +249,30 @@ Apache-2.0
 ---
 
 Part of [three.ws](https://three.ws), the open-source platform for 3D AI agents. This repository is exported from the [monorepo](https://github.com/nirholas/three.ws/tree/main/packages/knock-sdk), which is the source of truth: open issues here, and send larger changes there.
+
+<!-- three.ws:growth -->
+## Support the project
+
+If knock-sdk saves you time, **[star it on GitHub](https://github.com/nirholas/knock-sdk)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=knock-sdk%3A%20Reach%20a%20real%20person%2C%20and%20pay%20their%20price%20to%20do%20it&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fknock-sdk) · [Share on Bluesky](https://bsky.app/intent/compose?text=knock-sdk%3A%20Reach%20a%20real%20person%2C%20and%20pay%20their%20price%20to%20do%20it%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fknock-sdk) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fknock-sdk) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fknock-sdk&t=knock-sdk%3A%20Reach%20a%20real%20person%2C%20and%20pay%20their%20price%20to%20do%20it) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fknock-sdk&title=knock-sdk%3A%20Reach%20a%20real%20person%2C%20and%20pay%20their%20price%20to%20do%20it)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/knock-sdk` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/knock-sdk/issues) or [start a discussion](https://github.com/nirholas/knock-sdk/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/knock-sdk)](https://github.com/nirholas/knock-sdk/graphs/contributors)
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/knock-sdk&type=Date)](https://www.star-history.com/#nirholas/knock-sdk&Date)
+
+<!-- /three.ws:growth -->
