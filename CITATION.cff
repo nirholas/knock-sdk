@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "@three-ws/knock"
+abstract: "Reach a real person, and pay their price to do it. Every three.ws account can publish a priced door; paying it buys one message through, delivered in person by their 3D companion. Wallet-agnostic: bring any x402 client."
+type: software
+authors:
+  - name: three.ws contributors
+repository-code: "https://github.com/nirholas/knock-sdk"
+url: "https://nirholas.github.io/knock-sdk/"
+license: Apache-2.0
+version: 0.1.0

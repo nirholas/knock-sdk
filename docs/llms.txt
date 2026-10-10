@@ -1,0 +1,17 @@
+# @three-ws/knock
+
+> Reach a real person, and pay their price to do it. Every three.ws account can publish a priced door; paying it buys one message through, delivered in person by their 3D companion. Wallet-agnostic: bring any x402 client.
+
+- Repository: https://github.com/nirholas/knock-sdk
+- Documentation: https://nirholas.github.io/knock-sdk/
+- npm: https://www.npmjs.com/package/@three-ws/knock
+- License: Apache-2.0
+- Part of three.ws: https://three.ws
+
+## Docs
+
+- [README](https://github.com/nirholas/knock-sdk/blob/main/README.md): install, usage and full API reference
+- [Full text for LLMs](https://nirholas.github.io/knock-sdk/llms-full.txt): the entire README as plain text
+- [AGENTS.md](https://github.com/nirholas/knock-sdk/blob/main/AGENTS.md): conventions for coding agents
+- [Security policy](https://github.com/nirholas/knock-sdk/blob/main/SECURITY.md)
+- [Contributing](https://github.com/nirholas/knock-sdk/blob/main/CONTRIBUTING.md)
