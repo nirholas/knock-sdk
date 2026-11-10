@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-knock",
+  "version": "0.1.0",
+  "description": "Read priced doors and send messages to real people through three.ws Knock, with explicit spend confirmation for paid doors.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/knock-sdk",
+  "license": "Apache-2.0",
+  "keywords": [
+    "three-ws",
+    "knock",
+    "x402",
+    "messaging",
+    "agent-to-human",
+    "usdc"
+  ],
+  "homepage": "https://nirholas.github.io/knock-sdk/"
+}
