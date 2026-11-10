@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-knock",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Read priced doors and send messages to real people through three.ws Knock, with explicit spend confirmation for paid doors.",
+  "plugins": [
+    {
+      "name": "three-ws-knock",
+      "source": "./",
+      "description": "Read priced doors and send messages to real people through three.ws Knock, with explicit spend confirmation for paid doors.",
+      "tags": [
+        "messaging",
+        "x402",
+        "sdk"
+      ]
+    }
+  ]
+}
